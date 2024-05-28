@@ -25,3 +25,4 @@ This repository contains a Puppeteer script that performs a search on DuckDuckGo
    node search.js
    or
    nodemon search.js
+![image](https://github.com/DarkAsfu/puppeteer-search/assets/121676628/8247dc53-d45a-493d-b0a8-20140be9e4cc)
